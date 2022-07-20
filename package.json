@@ -1,5 +1,5 @@
 {
-  "name": "create_thumbnail",
+  "name": "create-thumbnail",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -10,6 +10,9 @@
     "@types/node": "^16.11.43",
     "@types/react": "^18.0.14",
     "@types/react-dom": "^18.0.6",
+    "emoji-picker-react": "^3.5.1",
+    "html-to-image": "^1.9.0",
+    "node-sass": "^7.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
